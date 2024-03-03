@@ -91,7 +91,7 @@ season_df = macem_season(main_df_hour)
 Sultan Fahd Muhammad Bahruddin Yusuf  
 Bangkit Academy Cohort 2024
 """
-st.image("bangkit.png",width=400)
+st.image("Bangkit.png",width=400)
 
 
 st.header(':sparkles: Bike Sharing :sparkles:')
